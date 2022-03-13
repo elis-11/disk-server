@@ -1,3 +1,4 @@
 {
-    "serverPort": 5000
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://elis:elis@cluster0.ldv56.mongodb.net/disk?retryWrites=true&w=majority"
 }
