@@ -2,3 +2,5 @@
 
 npm i config express mongoose@5
 npm i -D nodemon
+npm i express-validator
+npm i bcryptjs
